@@ -52,6 +52,7 @@ desktop.ini
 # Output dumps and local scratch
 outputs/*
 !outputs/.gitkeep
+push_to_github.bat
 
 # Ensure images directory is tracked
 !images/
